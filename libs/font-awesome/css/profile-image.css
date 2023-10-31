@@ -1,0 +1,11 @@
+/* Add this to your existing CSS or create a new CSS file if needed */
+.profile-image {
+    border-radius: 50%;
+    /* Makes the image circular */
+    width: 100px;
+    /* Adjust the width as needed */
+    height: 100px;
+    /* Adjust the height as needed */
+    object-fit: cover;
+    /* Ensures the image covers the entire circular space */
+}
